@@ -5,8 +5,7 @@ Repository:
 https://github.com/Reedley-College-CSCI/csci-41-sp26-project-a-dynamicarray-struct-and-search-system-lyrynlikesmoney  
 
 Summary:
-The idea is a food menu. The records would be the variety of foods on the menu. The food items will have prices, prices with a side dish, calories, and short descriptions. 
-I believe the sarch feture is the majority of how this would be useful. It should allow for additions to the menu and quick searches.
+The idea is a food menu. The records would be the variety of foods on the menu. The this area has changed a bit, will update when finished
 
 Files:
 menu.txt: a text file including the dataset ant its records/fields
