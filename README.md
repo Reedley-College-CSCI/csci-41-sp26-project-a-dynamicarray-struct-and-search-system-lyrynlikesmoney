@@ -17,3 +17,5 @@ I'm still figuring out the search thing, so for now it can only look specificall
 
 Checklist:
 The only thing I feel wasn't achieved here was full search functionality, I'll fix it later.
+
+It's about ready as it can be, I'm rather surprised I finished that in one day. (will definetley spread it out next time)
